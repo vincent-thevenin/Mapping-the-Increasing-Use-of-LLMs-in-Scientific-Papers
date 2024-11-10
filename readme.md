@@ -20,7 +20,7 @@ need to perform inference on any individual instance.
 
 ## Installation
 
-This repository was built using Python 3.8.19, but should be backwards compatible with any Python >= 3.8. This 
+This repository was built using Python 3.8.19, ~~but should be backwards compatible with any Python >= 3.8~~ > USE PYTHON3.8. This 
 repository was developed and has been thoroughly tested with pandas 2.0.3, numpy 1.24.4, pyarrow 15.0.2, fastparquet 2024.2.0, scipy 1.10.1, and ipykernel 6.29.4.
 
 You can install this package locally via an editable installation or the provided yml file:
